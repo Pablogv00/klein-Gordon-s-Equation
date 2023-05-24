@@ -1,6 +1,5 @@
 from pylab import *
 
-
 L = pi
 c = 1
 A = 1
